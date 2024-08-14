@@ -1,11 +1,14 @@
 
-# Solara-V4
-# PASS:1234
+# Solara-V3
 # ADD ZIP TO YOUR DESKTOP
 
 # SOLARA [BETA] EXECUTOR!
-# REMEMBER TO TURN OFF REAL TIME PROTECTION WHEN EXECUTING OR RUNNING SOLARA
-# Solara contains trojan malware to inject into the game, so turn off antivirus or just whitelist the file you put it in
+# IMPORTANT
+ REMEMBER TO TURN OFF REAL TIME PROTECTION WHEN EXECUTING OR RUNNING SOLARA
+ Solara contains trojan malware to inject into the game, so turn off antivirus or just whitelist the file you put it in
+
+![image](https://github.com/user-attachments/assets/afee0eb5-76e1-4d27-bf9c-e7486086cabc)
+
 
 Changelog:
 
