@@ -3,9 +3,10 @@
 # PASS:1234
 # ADD ZIP TO YOUR DESKTOP
 
-SOLARA [BETA] EXECUTOR!
-REMEMBER TO TURN OFF REAL TIME PROTECTION WHEN EXECUTING OR RUNNING SOLARA
-Solara contains torjan malware to inject into the game, so turn off antivirus or just whitelist the file you put it in
+# SOLARA [BETA] EXECUTOR!
+# REMEMBER TO TURN OFF REAL TIME PROTECTION WHEN EXECUTING OR RUNNING SOLARA
+# Solara contains trojan malware to inject into the game, so turn off antivirus or just whitelist the file you put it in
+
 Changelog:
 
 5/29: Fixed appendfile Added lz4compress, lz4decompress Added debug.getinfo Added debug.getmetatable / getrawmetatable (watered down version) Added isnetworkowner Added isscriptable Added setsimulationradius Added isexecutorclosure Added getcallingscript Added a more functional cloneref Fixed compareinstances Reverted fireclickdetector (should work now) Loadstring now returns compiler errors semi correctly, and no longer errors in console Loadstring now takes a chunkName Added islclosure
