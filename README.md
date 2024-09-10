@@ -1,4 +1,4 @@
-
+:activate
 # Solara-V3
 # ADD ZIP TO YOUR DESKTOP
 
@@ -19,3 +19,4 @@ Changelog:
 5/23#2: Added a semi functional require, if the ModuleScript's source is visible it will require it. Also, require(assetid) will work now
 
 5/23: Updated for latest ROBLOX version Teleport Handler more stable Added a check in the bootstrapper to kill node.exe and the main solara exe High CPU Usage should be fixed Implemented measures to lower memory usage Fixed writefile, appendfile getscriptbytecode now works CORRECTLY and now works with localscripts, make sure to test by passing the bytecode into decompilers like Konstant or Unluau
+🅰️
